@@ -15,6 +15,8 @@
    mkdocs build
    ```
 
+
+   
 ## 注意：
 
 1. 站点使用了专为Mkdocs打造的Material模板，有很多样式，可以在mkdocs.yml中进行配置修改，在mkdocs.yml文件中已经给出一部分。在push之后需要将添加的笔记在配置文件 nav 部分里添加相关配置，具体可以参考已经给出的配置。
